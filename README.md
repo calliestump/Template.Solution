@@ -1,5 +1,5 @@
 # Title
-
+### _This is a simple template for a C# MVC application that allows testing.
 #### **Date**
 
 ## By _Callie Stump_
